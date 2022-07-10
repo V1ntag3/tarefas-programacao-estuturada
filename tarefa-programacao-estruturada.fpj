@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Libs Value=""/>
+	<Flags Value=""/>
+	<Target Value="tarefa-programacao-estruturada.exe"/>
+	<CommandLine Value=""/>
+	<CompilerOptions Value="-Wall -s"/>
+	<DeleteObjectsBefore Value="Yes"/>
+	<DeleteObjectsAfter Value="Yes"/>
+	<DeleteMakefileAfter Value="Yes"/>
+	<DeleteResourcesAfter Value="Yes"/>
+	<EnableTheme Value="No"/>
+	<RequiresAdmin Value="No"/>
+	<CompilerType Value="CPP"/>
+	<AppType Value="CONSOLE"/>
+	<Files>
+		<File Name="tarefa-struct3.c"/>
+		<File Name="tarefa-struct2.c"/>
+		<File Name="tarefa-struct.c"/>
+		<File Name="sitemas-notas.c"/>
+		<File Name="implementacao-de-funcoes.c"/>
+		<File Name="exercicio-funcao-matriz.c"/>
+		<File Name="datas-arquivo.c"/>
+		<File Name="carro-2.c"/>
+		<File Name="carro-1.c"/>
+	</Files>
+</Project>
